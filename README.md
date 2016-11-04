@@ -22,3 +22,21 @@
 # 致谢！
 
 感谢每一个为此项目作出贡献的同学，也感谢所有辛勤的更新技术文章分享帮助他人的校友或同学！
+
+---
+
+# 博客
+
+[mirage的CSDN博客](http://blog.csdn.net/mirage1993 "mirage的CSDN博客")
+
+[Chay Cao 的博客](https://chaycao.github.io/ "Chay Cao 的博客")
+
+# 微信公众号(直接在微信中搜索即可)
+
+爱丽丝的漫长岁月
+
+草捏子
+
+# 头条号(今日头条旗下自媒体平台)
+
+魑魅森罗Android
