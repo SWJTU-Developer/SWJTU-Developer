@@ -95,7 +95,8 @@ GitHub 的 Issues 功能被很多人用作博客，而本项目要把 Issues 功
 ## Java 开发
 
 [Chay Cao 的博客](https://chaycao.github.io/)
-Chay Cao 的微信公众号：草捏子
+
+微信公众号：草捏子
 
 ## Linux 开发
 
