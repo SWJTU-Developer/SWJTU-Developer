@@ -64,9 +64,9 @@ GitHub 的 Issues 功能被很多人用作博客，而本项目要把 Issues 功
 
 **为本项目补充内容的方式有以下 3 种，请任选其一**
 
-* 直接去 Issues 发一贴，由我们添加到收录中
-* Fork 此项目并提交 Pull Requests
-* 如果您会使用 Git 并且了解 GitHub 的工作流程，可以发 Issue 申请加入我们 Organization 的 Members，这样就有权限直接向本仓库 Push 内容而不需要 Fork
+1. `推荐` 直接去 Issues 发一贴，由我们添加到收录中
+2. `量力而行` 如果您会使用 Git 并且了解 GitHub 的工作流程，可以发 Issue 申请加入我们 Organization 的 Members，这样就有权限直接向本仓库 Push 内容，而且还有权限创建其他新仓库（如果有必要的话）
+3. `不推荐` 虽然 Fork 此项目并提交 Pull Requests 也可以，但是不太建议使用这种方法，因为这并不是一个程序开发项目，Fork 之后无非就是提交几个链接然后就很少用了，所以这样做必要性不强，我们力推第一种方法
 
 ### Issues Tips
 
