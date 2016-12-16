@@ -19,7 +19,7 @@
 	* [前端开发](#前端开发)
 	* [杂项](#杂项)
 	* [非技术内容](#非技术内容)
-	* [分类待扩充](#分类待扩充)
+	* [分类待扩充......](#分类待扩充)
 
 # 项目简介
 
@@ -98,7 +98,7 @@ GitHub 的 Issues 功能被很多人用作博客，而本项目要把 Issues 功
 
 微信公众号：草捏子
 
-[伞U的简书](http://www.jianshu.com/users/b18fc0012e56/latest_articles)
+[伞 U 的简书](http://www.jianshu.com/users/b18fc0012e56/latest_articles)
 
 ## Linux 开发
 
