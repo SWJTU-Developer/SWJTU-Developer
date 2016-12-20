@@ -39,16 +39,15 @@
 
 **项目的 Issues 用来为大家提供一个交流的微平台**
 
-Issues 是个好东西，GitHub 的 Issues 功能被很多人用作博客，而本项目则要把 Issues 功能作为一个**论坛**来使用，对于程序员来说这是非常方便的，这里我引述一个知乎回答里面的说法：
+Issues 是个好东西，GitHub 的 Issues 功能被很多人用作[博客](https://github.com/lifesinger/blog/issues)，而本项目则要把 Issues 功能作为一个**论坛**来使用，对于程序员来说这是非常方便的。
 
 > 作者：玉伯 链接：https://www.zhihu.com/question/32066000/answer/54492231 来源：知乎
-> 著作权归作者所有，转载请联系作者获得授权。
-> 
-> 对话是记录的延伸，无论是线下，还是 IRC、WordPress、微博、QQ 等等，都是各种对话。GitHub 的评论功能，也是对话。对程序员来说，GitHub Issues 恰巧能很方便地进行代码交流。
+>
 > GitHub 可以 Watch，还可以针对单条 Issue 进行 Watch / Unwatch. 这功能在很多成熟的博客系统里都还没有呢。如果你是 GitHub 重度用户，就会感受到 Watch 的方便和灵活性，至少不比 RSS 差。
-> **玉伯的 Issues 博客：**https://github.com/lifesinger/blog/issues
 
-可以看到 Issues 做博客似乎还不错，那么我们用 Issues 作为论坛同样也是非常方便的，只要你 Watch 了本项目，任何 Issue （相当于帖子）被发布或回复之后你都会收到邮件提醒。如果你想取消某条 Issue 的提醒，可以对该条 Issue 单独 Unwatch。
+我们用 Issues 作为论坛同样是非常方便的，只要你 Watch 了本项目，任何 Issue （相当于帖子）被发布或回复之后你都会收到邮件提醒。如果你想取消某条 Issue 的提醒，可以对该条 Issue 单独 Unwatch。
+
+关于 Issues 做论坛的详细介绍可以参见[这里](https://github.com/SWJTU-Developer/SWJTU-Developer/issues/1)。
 
 大家可以在 Issues 内分享任何技术内容，包括但不限于工作感悟、技术文章链接、代码片段、有意思的想法、疑难问题、以及适度闲谈等，每个人所从事的技术方向不同，但是总有一些东西是相通的，而且大家很可能原来就互相认识，这非常有利于建立起一个技术圈。
 
