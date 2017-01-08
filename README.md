@@ -110,7 +110,7 @@ Issues 类似于论坛，其实更准确的说应该是邮件列表的变种，�
 
 ## Linux 开发
 
-[mirage 的 CSDN 博客](http://blog.csdn.net/mirage1993)
+[店小二 的 CSDN 博客](http://blog.csdn.net/mirage1993)
 
 ## IOS 开发
 
