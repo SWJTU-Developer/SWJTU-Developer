@@ -20,7 +20,7 @@
 	* [Android 开发](#android-开发)
 	* [Java 开发](#java-开发)
 	* [Linux 开发](#linux-开发)
-	* [IOS 开发](#ios-开发)
+	* [iOS 开发](#ios-开发)
 	* [前端开发](#前端开发)
 	* [杂项](#杂项)
 	* [非技术内容](#非技术内容)
@@ -112,7 +112,7 @@ Issues 类似于论坛，其实更准确的说应该是邮件列表的变种，�
 
 [店小二 的 CSDN 博客](http://blog.csdn.net/mirage1993)
 
-## IOS 开发
+## iOS 开发
 
 [瓜地 | 冬瓜的技术博客](http://www.desgard.com/)
 
@@ -120,9 +120,13 @@ Issues 类似于论坛，其实更准确的说应该是邮件列表的变种，�
 
 *待补充*
 
+## AI 开发
+
+微信公众号：王仁信的人工智能分享
+
 ## 杂项
 
-*待补充*
+[扑来树袋熊的博客](http://blog.sina.com.cn/auroratony/)
 
 ## 非技术内容
 
